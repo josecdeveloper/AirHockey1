@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Jose\\Desktop\\BookCode\\AirHockey1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_fragment_shader.glsl",
+        "source": "C:\\Users\\Jose\\Desktop\\BookCode\\AirHockey1\\app\\src\\main\\res\\raw\\simple_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\Desktop\\BookCode\\AirHockey1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "C:\\Users\\Jose\\Desktop\\BookCode\\AirHockey1\\app\\src\\main\\res\\raw\\simple_vertex_shader.glsl"
+    }
+]

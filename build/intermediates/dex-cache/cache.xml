@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jose\Desktop\BookCode\AirHockey1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b46e013a80ed65faadb140ccfb50bd394fb364ad">
+        <dex dex="C:\Users\Jose\Desktop\BookCode\AirHockey1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_69807f1358473fe4d2bdc8705cab2fa00f57981f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jose\Desktop\BookCode\AirHockey1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3644f0d464451d42a8ebdda3a19e176af564f924">
+        <dex dex="C:\Users\Jose\Desktop\BookCode\AirHockey1\app\build\intermediates\pre-dexed\debug\instant-run_54d22f87aa3b30213673c4c44999bf468aa27a61.jar" />
+    </item>
+
+</items>
